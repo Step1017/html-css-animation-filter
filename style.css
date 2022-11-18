@@ -182,6 +182,7 @@
 .ex-12-button:hover .ex-12-bottom-white {
     animation: move-b-w 2s linear;
 }
+
 @keyframes move-b-w {
     0% {
         right: 20%;
